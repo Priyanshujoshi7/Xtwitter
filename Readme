@@ -1,0 +1,13 @@
+XTwitter - A Twitter Clone Built with Tailwind CSS
+
+XTwitter is a modern, responsive Twitter clone designed using Tailwind CSS and HTML. This project aims to replicate the core layout and features of Twitter, focusing on a clean and minimalist design that adheres to the principles of utility-first CSS provided by Tailwind.
+
+Features:
+Responsive Design: Seamless experience across all devices, ensuring usability on both desktop and mobile.
+Customizable Components: Easily adaptable components for user profiles, tweets, sidebars, and navigation menus.
+Tailwind CSS: Leveraging the power of Tailwind's utility classes to create a maintainable and scalable codebase.
+#Priyanshu
+Steps:
+1. npm i
+2.npm rub build.
+3.Start server.
